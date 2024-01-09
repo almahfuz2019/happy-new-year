@@ -281,7 +281,8 @@ body {
   display: grid;
   grid-template-columns: repeat(3, 1fr); /* Three columns of equal width */
   gap: 24px;
-  margin: 0px 140px;
+/*   margin: 0px 140px; */
+  margin: 0px;
 }
 .seven-page-cards .card {
   width: 100%;
